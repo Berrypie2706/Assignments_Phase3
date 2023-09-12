@@ -1,0 +1,17 @@
+D:\Assignments_phase3\Assignment2\Assignment2\bin\Debug\NUnit3.TestAdapter.dll
+D:\Assignments_phase3\Assignment2\Assignment2\bin\Debug\NUnit3.TestAdapter.pdb
+D:\Assignments_phase3\Assignment2\Assignment2\bin\Debug\nunit.engine.dll
+D:\Assignments_phase3\Assignment2\Assignment2\bin\Debug\nunit.engine.api.dll
+D:\Assignments_phase3\Assignment2\Assignment2\bin\Debug\nunit.engine.core.dll
+D:\Assignments_phase3\Assignment2\Assignment2\bin\Debug\testcentric.engine.metadata.dll
+D:\Assignments_phase3\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+D:\Assignments_phase3\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+D:\Assignments_phase3\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+D:\Assignments_phase3\Assignment2\Assignment2\bin\Debug\nunit.framework.dll
+D:\Assignments_phase3\Assignment2\Assignment2\bin\Debug\nunit.framework.xml
+D:\Assignments_phase3\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.AssemblyReference.cache
+D:\Assignments_phase3\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.SuggestedBindingRedirects.cache
+D:\Assignments_phase3\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.CoreCompileInputs.cache
+D:\Assignments_phase3\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.CopyComplete
+D:\Assignments_phase3\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+D:\Assignments_phase3\Assignment2\Assignment2\obj\Debug\Assignment2.pdb

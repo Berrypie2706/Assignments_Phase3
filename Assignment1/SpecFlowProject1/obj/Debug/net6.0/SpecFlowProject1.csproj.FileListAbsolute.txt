@@ -1,0 +1,5 @@
+D:\Assignments_phase3\Assignment1\SpecFlowProject1\obj\Debug\net6.0\SpecFlowProject1.csproj.AssemblyReference.cache
+D:\Assignments_phase3\Assignment1\SpecFlowProject1\obj\Debug\net6.0\SpecFlowProject1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignments_phase3\Assignment1\SpecFlowProject1\obj\Debug\net6.0\SpecFlowProject1.AssemblyInfoInputs.cache
+D:\Assignments_phase3\Assignment1\SpecFlowProject1\obj\Debug\net6.0\SpecFlowProject1.AssemblyInfo.cs
+D:\Assignments_phase3\Assignment1\SpecFlowProject1\obj\Debug\net6.0\SpecFlowProject1.csproj.CoreCompileInputs.cache
